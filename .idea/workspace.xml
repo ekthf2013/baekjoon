@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3dc8d88-42af-4877-8f77-c9c32db0f310" name="변경" comment="백준 문제 풀기">
-      <change afterPath="$PROJECT_DIR$/src/num_10810.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/num_2490.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/num_6550.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673864190606</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="백준 문제 풀기">
+      <created>1673877822103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673877822103</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
