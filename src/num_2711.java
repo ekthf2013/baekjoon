@@ -1,3 +1,4 @@
+//오타왕 고창영
 import java.util.Scanner;
 
 public class num_2711 {
