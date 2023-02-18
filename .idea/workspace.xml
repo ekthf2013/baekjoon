@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3dc8d88-42af-4877-8f77-c9c32db0f310" name="변경" comment="2023/01/16">
-      <change afterPath="$PROJECT_DIR$/src/num_1978.java" afterDir="false" />
+    <list default="true" id="d3dc8d88-42af-4877-8f77-c9c32db0f310" name="변경" comment="2023/01/18">
+      <change afterPath="$PROJECT_DIR$/src/num_1159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/num_2441.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/num_2490.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/num_6550.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/num_2711.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/num_2711.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +40,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="num_1978" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="num_1978" />
+    <configuration name="num_2490" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="num_2490" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673877900947</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2023/01/18">
+      <created>1674048033620</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674048033620</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +116,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="백준 문제 풀기" />
     <MESSAGE value="2023/01/16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/01/16" />
+    <MESSAGE value="2023/01/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/01/18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -134,81 +141,6 @@
           <url>file://$PROJECT_DIR$/src/num_6550.java</url>
           <line>15</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>69</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>70</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>71</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>76</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_6550.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_1978.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_1978.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_1978.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_1978.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/num_1978.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
